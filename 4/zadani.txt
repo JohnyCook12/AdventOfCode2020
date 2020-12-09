@@ -1,0 +1,3 @@
+precit input.txt
+
+zjisit kolik je v seznamu validních passportù. Tj. kolik jich má všechna pole (kromì CID, to je optional)

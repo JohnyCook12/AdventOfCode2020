@@ -1,0 +1,6 @@
+precit input.txt
+
+kolik stromu (#) potkas, kdyz pojedes po sjezdovce
+z levého horního rohu vždy 3doprava + 1dolù?
+
+Vzorec stromù se poøád opakuje, takže si input mùžeš "roztáhnout doprava"

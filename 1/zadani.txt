@@ -1,0 +1,4 @@
+precit input.txt
+
+najit, ktere 2 radky davaji dohromady souèet 2020
+a spocitat jejich nasobek.

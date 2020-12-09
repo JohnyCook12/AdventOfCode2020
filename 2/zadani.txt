@@ -1,0 +1,5 @@
+precit input.txt
+
+pred dvojteckou je napsana podminka hesla (napø. že musí obsahovat písmeno a 1-3x)
+za dvojteckou je heslo
+mas napsat kolik hesel odpovida podminkam.
