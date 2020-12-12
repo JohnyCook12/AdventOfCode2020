@@ -36,7 +36,7 @@ for i in range(len(sorted_mylist_with_ends)):
     elif diff == 2:
         diff_2_count += 1
         i+=1
-    elif diff == 3:
+    elif diff == 3:11
         if i-last_diff3_beginning > 2:
             lengths_of_variable_diff_1_series.append(i-last_diff3_beginning-2)
         last_diff3_beginning = i
